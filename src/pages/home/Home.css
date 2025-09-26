@@ -1,0 +1,33 @@
+.banner-img{
+    height: 100vh;
+}
+.carousel-control-prev:focus,
+.carousel-control-prev:focus-visible,
+.carousel-control-next:focus,
+.carousel-control-next:focus-visible {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+
+
+
+/* .home-img{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+
+.h-heading{
+    font-size: 16px;
+    color: lightslategray;
+    margin-top: 15px;
+}
+
+.h-price{
+    font-size: 12px;
+}
+
+.h-para{
+    font-size: 12px;
+} */
